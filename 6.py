@@ -1,5 +1,3 @@
-
-
 def main():
     score = 0
     password = input('Введите пароль: ')
